@@ -1,7 +1,8 @@
 KemzApp
 -----
 
-![Kemzapp](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F5926df59f3e2356fd800ab80%2Fmaster%2Fw_2560%252Cc_limit%2FGettyImages-543338600-S2.jpg&tbnid=grpBeTmdiRpyRM&vet=12ahUKEwiZ9rDg69qBAxVUmicCHb2TBTcQMygIegQIARB-..i&imgrefurl=https%3A%2F%2Fwww.wired.com%2F2016%2F07%2Fneuroscientists-still-dont-know-music-sounds-good%2F&docid=133w6XwuQ4kZMM&w=2400&h=1800&q=music&ved=2ahUKEwiZ9rDg69qBAxVUmicCHb2TBTcQMygIegQIARB-)
+
+![download](https://github.com/michaelabiaw/KemzApp-MVP/assets/83102581/8b9accca-6840-4839-bd47-ed98b33edd9e)
 
 ## Introduction
 
